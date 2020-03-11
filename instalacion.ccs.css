@@ -1,0 +1,23 @@
+
+
+body
+	{
+ 	    background-image: url(img/fondo1.jpg);
+	     background-size:100%;
+	    
+	}
+
+
+
+
+p {
+font-size:18px;
+font-family: 'Kaushan Script';
+<link href="https://fonts.googleapis.com/css?family=Kaushan+Script&display=swap" rel="stylesheet">
+}
+
+#nav{
+	height: 4%;
+	background : #013ADF;
+	border-radius: 1em;
+	margin: 1em;
